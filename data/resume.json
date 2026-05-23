@@ -1,0 +1,116 @@
+{
+  "name": "Tony Technology",
+  "headline": "Computer Science graduate · Software design and project management",
+  "summary": "Experience in project management focused on nonprofits with extensive troubleshooting. Knowledge of customer/client business processes, planning, and strategy development. Skilled in team building and management with demonstrated success.",
+  "experience": [
+    {
+      "role": "Blog Writer",
+      "company": "UGA Computer Science Department",
+      "location": "Athens, GA",
+      "start": "2022-08",
+      "end": "Present",
+      "emphasis": "now",
+      "bullets": [
+        "Write and publish 5+ blog posts each month highlighting current industry trends",
+        "Interview faculty, staff, and employers to generate content for blog posts",
+        "Designed a student portal to access blogs, research articles, and inter-office communication"
+      ]
+    },
+    {
+      "role": "Unix Administrator Assistant",
+      "company": "Financial Network Services, Pty Ltd.",
+      "location": "Remote",
+      "start": "2021-06",
+      "end": "2021-08",
+      "bullets": [
+        "Operated Unix Hp/Ux 11i in the transferring of files between development and testing regions",
+        "Led team of 4 to configure notebooks and install software for 6 overseas consultants",
+        "Created user accounts and set permissions and passwords with UNIX - SCO"
+      ]
+    },
+    {
+      "role": "Web Programming, Project Team Leader",
+      "company": "Athens Area Humane Society",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-05",
+      "bullets": [
+        "Served as a project team leader and developed a database to track the adoption of animals",
+        "Used Visual Basic to establish a new user interface",
+        "Incorporated Java, HTML, and Flash to produce an interactive website: aahumane.gov"
+      ]
+    },
+    {
+      "role": "Risk Manager",
+      "company": "Pi Kappa Alpha Fraternity, Alpha Mu Chapter",
+      "location": "Athens, GA",
+      "start": "2020-09",
+      "end": "Present",
+      "bullets": [
+        "Regulate and ensure compliance of campus and chapter safety rules for 85 members",
+        "Handle regulation violations and distribute appropriate sanctions",
+        "Coordinate 2 educational programs per semester to proactively avoid possible risks"
+      ]
+    },
+    {
+      "role": "Treasurer",
+      "company": "Pi Kappa Alpha Fraternity, Alpha Mu Chapter",
+      "location": "Athens, GA",
+      "start": "2019-09",
+      "end": "2020-05",
+      "bullets": [
+        "Managed comprehensive budget of $55,000+ and allocated funds as needed",
+        "Accurately completed all transactions and purchases to ensure proper account balances"
+      ]
+    },
+    {
+      "role": "Lawn Maintenance",
+      "company": "Self-Employed Lawn Service",
+      "location": "Roswell, GA",
+      "start": "2017",
+      "end": "2019",
+      "emphasis": "before",
+      "bullets": [
+        "Established a small business, including marketing, sales, and financial review",
+        "Retained customer base of 75 homes in local neighborhoods"
+      ]
+    }
+  ],
+  "skills": [
+    "Visual Basic",
+    "SQL",
+    "C",
+    "C++",
+    "Java",
+    "Windows",
+    "Linux",
+    "Unix",
+    "SQL Server",
+    "MS Access",
+    "Oracle",
+    "JCL",
+    "DB2",
+    "MS FrontPage",
+    "MS Teams",
+    "MS Excel",
+    "MS Word",
+    "Zoom",
+    "Claude Code",
+    "vibe coding"
+  ],
+  "education": [
+    {
+      "school": "University of Georgia, School of Computing",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science (Emphasis: Software Design)",
+      "start": null,
+      "end": "2023"
+    }
+  ],
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "portfolio": "tonytechcomputerscience.com",
+    "email": "tote@uofga.edu"
+  }
+}

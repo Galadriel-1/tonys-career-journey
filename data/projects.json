@@ -1,0 +1,10 @@
+[
+  {
+    "id": "interview-randomizer-terry",
+    "title": "Interview Question Randomizer for Terry",
+    "url": "https://interview-prep-for-terry.vercel.app/",
+    "description": "A personalized behavioral interview prep tool I built as a gift for Terry, a Finance Sales pro. Each click randomizes a sharp, hand-tailored question and a tip on how to answer.",
+    "toolsUsed": ["Next.js", "Tailwind CSS", "Vercel", "Claude Code", "Subagents"],
+    "date": "2026-05-23"
+  }
+]
